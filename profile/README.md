@@ -9,7 +9,7 @@ Rapid Development: build web applications 4-16 times faster\
 Enterprise-level Security: no risks of exposing business logic on the client-side\
 Innovative Technology: first Java MVVM, server-client fusion, [web spreadsheet](https://keikai.io/about)
 
-**When to Use ZK**\
+**When to Use ZK**
 | Use Case | Why ZK Helps |
 |----------|--------------|
 | Backend-heavy Java projects | No need for a separate frontend team |
