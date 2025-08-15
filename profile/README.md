@@ -5,7 +5,7 @@ ZK offers a core framework [zk](https://github.com/zkoss/zk), integrations, tool
 
 **Why ZK**\
 Simply Java: Ajax without Javascript\
-Rapid Development: 4-16 times of productivity boost\
+Rapid Development: build web applications 4-16 times faster\
 Enterprise-level Security: no risks of exposing business logic on the client-side\
 Innovative Technology: first Java MVVM, server-client fusion, [web spreadsheet](https://keikai.io/about)
 
