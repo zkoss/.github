@@ -9,6 +9,14 @@ Rapid Development: build web applications 4-16 times faster\
 Enterprise-level Security: no risks of exposing business logic on the client-side\
 Innovative Technology: first Java MVVM, server-client fusion, [web spreadsheet](https://keikai.io/about)
 
+**When to Use ZK**\
+| Use Case | Why ZK Helps |
+|----------|--------------|
+| Backend-heavy Java projects | No need for a separate frontend team |
+| Enterprise applications | Stable, long-term support |
+| Complex data visualizations | Rich, server-driven UI components |
+| Quick prototypes | Build functional UIs in hours, not days |
+
 **Popular repositories**\
 [zk](https://github.com/zkoss/zk) - core framework\
 [zkspringboot](https://github.com/zkoss/zkspringboot) - zk-springboot starter project\
