@@ -16,7 +16,8 @@ Innovative Technology: first Java MVVM, server-client fusion, [web spreadsheet](
 [zkcalendar](https://github.com/zkoss/zkcalendar) - calendar add-on\
 [zkckeditor](https://github.com/zkoss/zkckeditor) - ckeditor integration\
 [zats](https://github.com/zkoss/zats) - testing tool\
-[zkThemeTemplate](https://github.com/zkoss/zkThemeTemplate) - tool for creating custom themes
+[zkThemeTemplate](https://github.com/zkoss/zkThemeTemplate) - tool for creating custom themes\
+[zkdoc](https://github.com/zkoss/zkdoc) - ZK documentation
 
 **Learn ZK**\
 [Getting Started](https://www.zkoss.org/documentation#Getting_Started)\
