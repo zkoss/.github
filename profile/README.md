@@ -29,7 +29,7 @@ Innovative Technology: first Java MVVM, server-client fusion, [web spreadsheet](
 
 **Learn ZK**\
 [Getting Started](https://www.zkoss.org/documentation#Getting_Started)\
-[ZK Demo](https://www.zkoss.org/zkdemo/grid)\
+[ZK Demo](https://www.zkoss.org/zkdemo/featured)\
 [Training Videos](https://www.youtube.com/@zkframework3895/playlists)
 
 **Community**\
